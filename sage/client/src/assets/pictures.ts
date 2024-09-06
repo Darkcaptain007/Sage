@@ -1,0 +1,10 @@
+export const bgImage =
+  "https://ik.imagekit.io/anupb4txx3/bg%20image.png?updatedAt=1724432860000";
+export const menteeImage =
+  "https://ik.imagekit.io/anupb4txx3/cartoon-student-school-child-png-favpng-MXNTEwx4gmEvxLpdnNS53WLeB-removebg-preview%20(1).png?updatedAt=1724433328332";
+export const mentorImage =
+  "https://ik.imagekit.io/anupb4txx3/image-removebg-preview%20(1).png?updatedAt=1724433362574";
+export const home =
+  "https://ik.imagekit.io/anupb4txx3/07f1382c-afd2-4397-804a-a71722cb5543.jpg?updatedAt=1724509569675";
+export const bgprofile =
+  "https://ik.imagekit.io/anupb4txx3/WhatsApp%20Image%202024-08-24%20at%2022.17.18.jpeg?updatedAt=1724518766760";
